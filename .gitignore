@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+checkpoint-*/
+flaubert-lora/
+mistral-lexical-lora/
+qwen25-7b-lexical/
+*.safetensors
+*.bin
